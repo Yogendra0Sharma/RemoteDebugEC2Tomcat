@@ -64,9 +64,13 @@ ssh -N -v -L 8000:127.0.0.1:8000 -L 8000:127.0.0.1:8000 ec2-user@ec2xxxxx.comput
 
 **Note:** If you are in Windows you can set up the tunnel using Putty with the following configuration:
 
-![putty](http://wedevol.com/github/jvisualvmtomcat/2-putty.png)
+![putty](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/Tunnels_Config.PNG)
+![putty](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/Tunnels_Config1.PNG)
+![putty](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/AuthKey.PNG)
+![putty](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/AuthKey.PNG)
+![putty](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/connect.PNG)
 
 **6. Launch the Eclipse debug**
-
+![Eclipse](https://github.com/Yogendra0Sharma/RemoteDebugEC2Tomcat/blob/master/eclipse%20debug.PNG)
 
 _**Any improvement or comment about this info is always welcome! As well as others shared their code publicly I want to share mine! Thanks!**_
